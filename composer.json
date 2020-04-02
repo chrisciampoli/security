@@ -41,7 +41,7 @@
         "psr/log": "~1.0"
     },
     "conflict": {
-        "symfony/event-dispatcher": ">=5",
+        "symfony/event-dispatcher": "^5.0",
         "symfony/ldap": "<4.4"
     },
     "suggest": {
